@@ -1,6 +1,6 @@
 # Task Manager App
 ![.NET](https://img.shields.io/badge/.NET-8.0-blueviolet?logo=dotnet&logoColor=white)
-![License](https://img.shields.io/github/license/suryakanthichalla/task-manager-app?color=brightgreen)
+![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![IDE](https://img.shields.io/badge/Made%20with-Visual%20Studio-5C2D91?logo=visualstudio)
 A simple **Task Management Web Application** built with **ASP.NET Core Web API** (backend) and **React** (frontend planned).
